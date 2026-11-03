@@ -1,9 +1,0 @@
-buildVariable: true
-familyName: Noto Sans Bassa Vah
-googleFonts: true
-includeSubsets:
-- from: Noto Sans
-  name: GF_Latin_Core
-recipeProvider: noto
-sources:
-- NotoSansBassaVah.glyphs
